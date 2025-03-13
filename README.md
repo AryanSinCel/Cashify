@@ -1,3 +1,7 @@
+
+![Simulator Screen Recording - iPhone 16 Pro - 2025-03-13 at 10 27 09-min](https://github.com/user-attachments/assets/b970c202-f2b8-499c-985c-c59d5dcb5828)
+
+
 # cashify
 
 A new Flutter project.
